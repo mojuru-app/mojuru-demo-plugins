@@ -31,6 +31,16 @@
       "extraLarge": "https://peach.blender.org/wp-content/uploads/bbb-splash.png?x11217",
       "medium": "https://peach.blender.org/wp-content/uploads/bbb-splash.png?x11217"
     },
+    "color": "#9a4238",
+    "darkColor": "#261e1d",
+    "darkerColor": "#140f0f",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "startDate": {
+      "year": 2008
+    },
     "status": "FINISHED",
     "format": "MOVIE",
     "duration": 600
