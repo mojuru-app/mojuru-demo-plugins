@@ -32,8 +32,8 @@ async function fetchSources(url) {
 }
 
 return {
-  searchResults,
-  extractDetails,
-  extractEpisodes,
-  extractStreamUrl,
+  search,
+  fetchInfo,
+  fetchEpisodes,
+  fetchSources,
 };
