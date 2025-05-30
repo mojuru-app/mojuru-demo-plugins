@@ -21,6 +21,8 @@
     "episodesCoversSearchKey": "Big Buck Bunny",
     "title": "Big Buck Bunny",
     "description": "A large and lovable rabbit deals with three tiny bullies.",
+    "episodes": 1,
+    "availableEpisodes": 1,
     "coverImage": {
       "large": "https://ddz4ak4pa3d19.cloudfront.net/cache/ca/ae/caae05fd7ca0ac459ada9acdd23eb45b.jpg",
       "extraLarge": "https://ddz4ak4pa3d19.cloudfront.net/cache/ca/ae/caae05fd7ca0ac459ada9acdd23eb45b.jpg",
@@ -43,6 +45,7 @@
     },
     "status": "FINISHED",
     "format": "MOVIE",
+    "rating": 64,
     "duration": 600
   }
 }
