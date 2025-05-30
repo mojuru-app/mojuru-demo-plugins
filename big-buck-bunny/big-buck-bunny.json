@@ -1,0 +1,34 @@
+{
+  "name": "Big Buck Bunny (Test Stream)",
+  "compatible": true,
+  "pluginProvider": "public-test",
+  "contentProvider": "Mux Test Streams",
+  "scriptUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Big.Buck.Bunny.-.Bunny.Portrait.png",
+  "author": {
+    "name": "Blender Foundation",
+    "icon": "https://peach.blender.org/wp-content/themes/sintel/images/favicon.ico"
+  },
+  "version": "1.0.0",
+  "language": "English",
+  "streamType": "HLS",
+  "quality": "1080p",
+  "baseUrl": "https://test-streams.mux.dev",
+  "type": "anime",
+  "media": {
+    "id": "big-buck-bunny",
+    "provider": "test-stream",
+    "episodesCoversSearchKey": "Big Buck Bunny",
+    "title": "Big Buck Bunny",
+    "description": "A large and lovable rabbit deals with three tiny bullies.",
+    "coverImage": {
+      "large": "https://ddz4ak4pa3d19.cloudfront.net/cache/ca/ae/caae05fd7ca0ac459ada9acdd23eb45b.jpg"
+    },
+    "bannerImage": {
+      "large": "https://peach.blender.org/wp-content/uploads/bbb-splash.png?x11217"
+    },
+    "status": "FINISHED",
+    "format": "MOVIE",
+    "duration": 600
+  }
+}
