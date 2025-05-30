@@ -1,4 +1,4 @@
-async function searchResults(keyword) {
+async function search() {
   return JSON.stringify([
     {
       title: "Big Buck Bunny",
@@ -9,17 +9,16 @@ async function searchResults(keyword) {
   ]);
 }
 
-async function extractDetails(url) {
+async function fetchInfo() {
   return JSON.stringify([
     {
       description: "A large and lovable rabbit deals with three tiny bullies.",
-      aliases: "N/A",
       airdate: "2008-04-10",
     },
   ]);
 }
 
-async function extractEpisodes(url) {
+async function fetchEpisodes() {
   return JSON.stringify([
     {
       href: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
@@ -28,6 +27,13 @@ async function extractEpisodes(url) {
   ]);
 }
 
-async function extractStreamUrl(url) {
+async function fetchSources(url) {
   return url;
 }
+
+return {
+  searchResults,
+  extractDetails,
+  extractEpisodes,
+  extractStreamUrl,
+};
