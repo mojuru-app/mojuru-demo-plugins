@@ -22,10 +22,14 @@
     "title": "Big Buck Bunny",
     "description": "A large and lovable rabbit deals with three tiny bullies.",
     "coverImage": {
-      "large": "https://ddz4ak4pa3d19.cloudfront.net/cache/ca/ae/caae05fd7ca0ac459ada9acdd23eb45b.jpg"
+      "large": "https://ddz4ak4pa3d19.cloudfront.net/cache/ca/ae/caae05fd7ca0ac459ada9acdd23eb45b.jpg",
+      "extraLarge": "https://ddz4ak4pa3d19.cloudfront.net/cache/ca/ae/caae05fd7ca0ac459ada9acdd23eb45b.jpg",
+      "medium": "https://ddz4ak4pa3d19.cloudfront.net/cache/ca/ae/caae05fd7ca0ac459ada9acdd23eb45b.jpg"
     },
     "bannerImage": {
-      "large": "https://peach.blender.org/wp-content/uploads/bbb-splash.png?x11217"
+      "large": "https://peach.blender.org/wp-content/uploads/bbb-splash.png?x11217",
+      "extraLarge": "https://peach.blender.org/wp-content/uploads/bbb-splash.png?x11217",
+      "medium": "https://peach.blender.org/wp-content/uploads/bbb-splash.png?x11217"
     },
     "status": "FINISHED",
     "format": "MOVIE",
