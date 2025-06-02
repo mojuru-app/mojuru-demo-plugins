@@ -1,6 +1,7 @@
 {
   "name": "Tears of Steel",
   "compatible": true,
+  "pluginType": "media",
   "pluginProvider": "MojuruDemoPlugins",
   "contentProvider": "Unified Streaming",
   "scriptUrl": "https://raw.githubusercontent.com/mojuru-app/mojuru-demo-plugins/refs/heads/main/tears-of-steel/tears-of-steel.js",
