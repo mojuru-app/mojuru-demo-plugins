@@ -2,7 +2,7 @@
   "name": "Big Buck Bunny",
   "compatible": true,
   "pluginType": "media",
-  "pluginProvider": "MojuruDemoPlugins",
+  "pluginProvider": "Demo",
   "contentProvider": "Mux Test Streams",
   "scriptUrl": "https://raw.githubusercontent.com/mojuru-app/mojuru-demo-plugins/refs/heads/main/big-buck-bunny/big-buck-bunny.js",
   "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Big.Buck.Bunny.-.Bunny.Portrait.png",
