@@ -4,7 +4,7 @@
   "pluginType": "media",
   "pluginProvider": "Demo",
   "contentProvider": "Blender Open Movies",
-  "scriptUrl": "https://your-domain.com/sprite-fright.js",
+  "scriptUrl": "https://raw.githubusercontent.com/mojuru-app/mojuru-demo-plugins/refs/heads/main/sprite-fright/sprite-fright.js",
   "iconUrl": "https://ddz4ak4pa3d19.cloudfront.net/cache/37/7f/377fd95cd872c4a5daab90504530d9ae.jpg",
   "author": {
     "name": "aleganza",
