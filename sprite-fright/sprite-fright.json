@@ -1,0 +1,53 @@
+{
+  "name": "Sprite Fright",
+  "compatible": true,
+  "pluginType": "media",
+  "pluginProvider": "Demo",
+  "contentProvider": "Blender Open Movies",
+  "scriptUrl": "https://your-domain.com/sprite-fright.js",
+  "iconUrl": "https://ddz4ak4pa3d19.cloudfront.net/cache/37/7f/377fd95cd872c4a5daab90504530d9ae.jpg",
+  "author": {
+    "name": "aleganza",
+    "icon": "https://avatars.githubusercontent.com/u/73157384?v=4&size=64"
+  },
+  "version": "1.0.0",
+  "language": "English",
+  "streamType": "MP4",
+  "quality": "1080p",
+  "baseUrl": "https://media.blender.org",
+  "type": "cartoon",
+  "media": {
+    "id": "sprite-fright",
+    "provider": "plugin",
+    "episodesCoversSearchKey": "Sprite Fright",
+    "title": "Sprite Fright",
+    "description": "A group of campers meets unexpected woodland creatures in this comedy horror short.",
+    "episodes": 1,
+    "availableEpisodes": 1,
+    "coverImage": {
+      "large": "https://ddz4ak4pa3d19.cloudfront.net/cache/1a/43/1a4320c2dfc0fd20015e5d467294b3d8.jpg",
+      "extraLarge": "https://ddz4ak4pa3d19.cloudfront.net/cache/1a/43/1a4320c2dfc0fd20015e5d467294b3d8.jpg",
+      "medium": "https://ddz4ak4pa3d19.cloudfront.net/cache/1a/43/1a4320c2dfc0fd20015e5d467294b3d8.jpg"
+    },
+    "bannerImage": {
+      "large": "https://ddz4ak4pa3d19.cloudfront.net/a9/a9b9704be4fed10a78f02eec564f374a/a9b9704be4fed10a78f02eec564f374a.jpg?Expires=1749236052&Signature=g6U6SYVFURNI7~Ee~2OxkUWSI21lv0jXthTX~4QBM~smAQDpvOk3ZO7RfhScFLrcIrD3eF-4DKTUe4DwPxuZJTg8nCvk-J1cI~i5Mtc4frIytLMrDNcfK-oiNJxXgb1LxkxU3LbbBFKV~QMJWPryuQSg06MxWE6i0Yf7oFcVbYcm9ffSB0sH8l0mz8dIRW~q9pnnGoI4sxetldrKvNUzZegsErXUa~QYNCApUhsaztd1mtCUTy4J-ZEIxhDYJ8xgmC8ErpcgpyervYlkVhIf6HlaJst-faF02luhOF~SLT8tYifW1WFFkRSCW184V8i0ynib6uOC7vjJlooqWfv6-w__&Key-Pair-Id=APKAJZFE4UDHH3WZXVDA",
+      "extraLarge": "https://ddz4ak4pa3d19.cloudfront.net/a9/a9b9704be4fed10a78f02eec564f374a/a9b9704be4fed10a78f02eec564f374a.jpg?Expires=1749236052&Signature=g6U6SYVFURNI7~Ee~2OxkUWSI21lv0jXthTX~4QBM~smAQDpvOk3ZO7RfhScFLrcIrD3eF-4DKTUe4DwPxuZJTg8nCvk-J1cI~i5Mtc4frIytLMrDNcfK-oiNJxXgb1LxkxU3LbbBFKV~QMJWPryuQSg06MxWE6i0Yf7oFcVbYcm9ffSB0sH8l0mz8dIRW~q9pnnGoI4sxetldrKvNUzZegsErXUa~QYNCApUhsaztd1mtCUTy4J-ZEIxhDYJ8xgmC8ErpcgpyervYlkVhIf6HlaJst-faF02luhOF~SLT8tYifW1WFFkRSCW184V8i0ynib6uOC7vjJlooqWfv6-w__&Key-Pair-Id=APKAJZFE4UDHH3WZXVDA",
+      "medium": "https://ddz4ak4pa3d19.cloudfront.net/a9/a9b9704be4fed10a78f02eec564f374a/a9b9704be4fed10a78f02eec564f374a.jpg?Expires=1749236052&Signature=g6U6SYVFURNI7~Ee~2OxkUWSI21lv0jXthTX~4QBM~smAQDpvOk3ZO7RfhScFLrcIrD3eF-4DKTUe4DwPxuZJTg8nCvk-J1cI~i5Mtc4frIytLMrDNcfK-oiNJxXgb1LxkxU3LbbBFKV~QMJWPryuQSg06MxWE6i0Yf7oFcVbYcm9ffSB0sH8l0mz8dIRW~q9pnnGoI4sxetldrKvNUzZegsErXUa~QYNCApUhsaztd1mtCUTy4J-ZEIxhDYJ8xgmC8ErpcgpyervYlkVhIf6HlaJst-faF02luhOF~SLT8tYifW1WFFkRSCW184V8i0ynib6uOC7vjJlooqWfv6-w__&Key-Pair-Id=APKAJZFE4UDHH3WZXVDA"
+    },
+    "color": "#4b7b3f",
+    "darkColor": "#2e4226",
+    "darkerColor": "#1b2414",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Horror"
+    ],
+    "startDate": {
+      "year": 2021
+    },
+    "status": "FINISHED",
+    "format": "MOVIE",
+    "rating": 74,
+    "duration": 12
+  }
+}
