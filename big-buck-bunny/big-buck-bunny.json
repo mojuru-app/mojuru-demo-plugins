@@ -24,9 +24,9 @@
     "episodes": 1,
     "availableEpisodes": 1,
     "coverImage": {
-      "large": "https://studio.blender.org/files/cache/ca/ae/caae05fd7ca0ac459ada9acdd23eb45b.jpg",
-      "extraLarge": "https://studio.blender.org/files/cache/ca/ae/caae05fd7ca0ac459ada9acdd23eb45b.jpg",
-      "medium": "https://studio.blender.org/files/cache/ca/ae/caae05fd7ca0ac459ada9acdd23eb45b.jpg"
+      "large": "https://raw.githubusercontent.com/mojuru-app/mojuru-demo-plugins/refs/heads/main/big-buck-bunny/cover.jpg",
+      "extraLarge": "https://raw.githubusercontent.com/mojuru-app/mojuru-demo-plugins/refs/heads/main/big-buck-bunny/cover.jpg",
+      "medium": "https://raw.githubusercontent.com/mojuru-app/mojuru-demo-plugins/refs/heads/main/big-buck-bunny/cover.jpg"
     },
     "bannerImage": {
       "large": "https://peach.blender.org/wp-content/uploads/bbb-splash.png?x11217",
