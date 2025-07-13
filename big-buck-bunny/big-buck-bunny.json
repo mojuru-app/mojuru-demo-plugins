@@ -10,7 +10,7 @@
     "name": "aleganza",
     "icon": "https://avatars.githubusercontent.com/u/73157384?v=4&size=64"
   },
-  "version": "1.1.0",
+  "version": "1.1.1",
   "language": "English",
   "streamType": "HLS",
   "quality": "1080p",
@@ -24,9 +24,9 @@
     "episodes": 1,
     "availableEpisodes": 1,
     "coverImage": {
-      "large": "https://ddz4ak4pa3d19.cloudfront.net/cache/ca/ae/caae05fd7ca0ac459ada9acdd23eb45b.jpg",
-      "extraLarge": "https://ddz4ak4pa3d19.cloudfront.net/cache/ca/ae/caae05fd7ca0ac459ada9acdd23eb45b.jpg",
-      "medium": "https://ddz4ak4pa3d19.cloudfront.net/cache/ca/ae/caae05fd7ca0ac459ada9acdd23eb45b.jpg"
+      "large": "https://studio.blender.org/files/cache/ca/ae/caae05fd7ca0ac459ada9acdd23eb45b.jpg",
+      "extraLarge": "https://studio.blender.org/files/cache/ca/ae/caae05fd7ca0ac459ada9acdd23eb45b.jpg",
+      "medium": "https://studio.blender.org/files/cache/ca/ae/caae05fd7ca0ac459ada9acdd23eb45b.jpg"
     },
     "bannerImage": {
       "large": "https://peach.blender.org/wp-content/uploads/bbb-splash.png?x11217",
